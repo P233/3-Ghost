@@ -64,7 +64,7 @@ DEMO: [http://peiwen.lu](http://peiwen.lu)
 
 如果完全不需要这个功能可以将 `/assets/js/script.js` 中的相关代码删除，同理，如果不需要代码高亮也可在这个文件中将相关代码删除。
 
-###　修改许可协议
+### 修改许可协议
 
 在 `post.hbs` 文件的分享链接部分声明博客内容所使用的许可协议，默认使用 [Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)。
 
@@ -92,6 +92,12 @@ Disqus 评论加载比较慢，所以使用了 lazy-load 的方式，在 `/asset
 
 3. 键盘 <kbd>Space</kbd> <kbd>PgUp</kbd> <kbd>PgDn</kbd> <kbd>↑</kbd> <kbd>↓</kbd> 等快捷键无效，这是由于当前的布局方式影响的。iOS7 Mobile Safari 自动隐藏地址栏也会无效。
 
+
+## Credits
+
+* [jquery-pjax](https://github.com/defunkt/jquery-pjax)
+* [NProgress.js](http://ricostacruz.com/nprogress/)
+* [Prism.js](http://prismjs.com)
 
 ## Copyright & License
 
